@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-youtube/static/css/main.cc1199cb.chunk.css",
+    "main.js": "/react-youtube/static/js/main.42cf3172.chunk.js",
+    "main.js.map": "/react-youtube/static/js/main.42cf3172.chunk.js.map",
+    "runtime-main.js": "/react-youtube/static/js/runtime-main.c27c959b.js",
+    "runtime-main.js.map": "/react-youtube/static/js/runtime-main.c27c959b.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/react-youtube/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.ff95d32c.chunk.js": "/react-youtube/static/js/2.ff95d32c.chunk.js",
+    "static/js/2.ff95d32c.chunk.js.map": "/react-youtube/static/js/2.ff95d32c.chunk.js.map",
+    "index.html": "/react-youtube/index.html",
+    "precache-manifest.5663cfb344df230ad4eeeb8f5eb61999.js": "/react-youtube/precache-manifest.5663cfb344df230ad4eeeb8f5eb61999.js",
+    "service-worker.js": "/react-youtube/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/react-youtube/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.cc1199cb.chunk.css.map": "/react-youtube/static/css/main.cc1199cb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c27c959b.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.ff95d32c.chunk.js",
+    "static/css/main.cc1199cb.chunk.css",
+    "static/js/main.42cf3172.chunk.js"
+  ]
+}
