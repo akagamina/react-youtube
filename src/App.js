@@ -25,7 +25,7 @@ class App extends Component {
         <div className="header-block">
           <Search callback={this.getSearch} />
         </div>
-        <div className="list-block">
+        <div className="list-block container">
           <List videos={this.state.videos} />
         </div>
       </div>

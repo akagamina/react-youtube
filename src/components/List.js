@@ -23,7 +23,7 @@ export default class List extends Component {
   }
   render() {
     return this.props.videos.map((video, index) => (
-      <div key={video.id.videoId} className="list-item container">
+      <div key={video.id.videoId} className="list-item">
         <div
           className="img-block"
           onClick={() => this.passVideoId(video.id.videoId, index)}
